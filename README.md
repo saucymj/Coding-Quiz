@@ -6,7 +6,7 @@ In this project I used javascript to create a functioning Coding Quiz. It includ
 
 ## URL's
 
-Repository:
+Repository: https://github.com/saucymj/Coding-Quiz/blob/main/README.md
 
 Website: https://saucymj.github.io/Coding-Quiz/
 
