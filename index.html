@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="style.css">
+<link rel="scoresheet" href="scores.html">
+
+<header>
+    <title>Coding Quiz</title>
+</header>
+
+<body>
+    <p id="highscore">View Highscore</p>
+    <p id="time"></p>
+    <h1>Coding Quiz Challenge</h1>
+    <p id="welcome"> Welcome, here you will be asked a series of questions to try and obtain the highscore in 90 seconds. NOTE: any incorrect answers will result in a 10 second penalty.</p>
+    <button id="start">Start Quiz</button>
+    
+    <div id="quizContainer" style="display: none"> 
+        <h2 id="questionTitle"></h2>
+        
+            <ul>
+                <div id="answer-choices">
+                    <button id="choiceA"></button>
+                </div>
+                <div>
+                    <button id="choiceB"></button>
+                </div>
+                <div>
+                    <button id="choiceC"></button>
+                </div>
+                <div>
+                    <button id="choiceD"></button>
+                </div>
+            </ul>
+        </div>
+</body>
+
+<script src= "script.js"></script>
+<script src="questions.js"></script>
+
+</html>
