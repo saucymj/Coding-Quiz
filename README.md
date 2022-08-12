@@ -11,3 +11,4 @@ Repository: https://github.com/saucymj/Coding-Quiz/blob/main/README.md
 Website: https://saucymj.github.io/Coding-Quiz/
 
 ## Screenshot
+![7AF9A786-FADD-4AE2-8395-C8835C62B476](https://user-images.githubusercontent.com/106449899/184288853-39bc04db-31d8-4a97-a2f9-c1539352c17d.jpeg)
